@@ -7,13 +7,13 @@ import About from '../components/Home/About';
 import Services from '../components/Home/Services';
 import Featured from '../components/Home/Featured';
 import { graphql } from "gatsby";
-import SEO from '../components/SEO';
+// import SEO from '../components/SEO';
 
 export default ({data}) => (
 
 
 <Layout>
-  <SEO title="Home" description="PWA specialist in e-commerce applications" />
+  {/* <SEO title="Home" description="PWA specialist in e-commerce applications" /> */}
  <StyledHero home="true" img={data.defaultBcg.childImageSharp.fluid}>
      <Banner
      title="progressive web app"
