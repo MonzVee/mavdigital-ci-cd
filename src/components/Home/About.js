@@ -35,7 +35,7 @@ export default function About() {
                     <h4>we leverage technology</h4>
                     <p>We are a modern software development company, with
                         entrepreneurship at our core. Our products are built on the understanding
-                        that techology is merely a vehicle, in order to increase your brand and grow your business.
+                        that technology is merely a vehicle, in order to increase your brand and grow your business.
                     </p>
                     <p>
                         No matter your size, project or need, we can help you get to market fast!
