@@ -9,9 +9,11 @@ module.exports = {
     description: 
       "PWA ecommerce specialist, getting your business to market fast",
      author: "@MuneerVariawa", 
+     facebookUsername: "@MAVDigital",
   },
 
   plugins: [
+    `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
